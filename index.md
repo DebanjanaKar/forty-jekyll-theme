@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Debarghya Kar'
 description: null
-image: null
+image: assets/images/bhaito.jfif
 author: null
 show_tile: false
 ---
