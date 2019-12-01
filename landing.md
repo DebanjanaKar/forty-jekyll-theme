@@ -1,8 +1,8 @@
 ---
-title: 'Personal Gallery'
+title: 'Photo Gallery'
 layout: landing
 description: '"You don't take a photograph, you make it. "<br /> - Ansel Adams'
-image: assets/images/pic07.jpg
+image: assets/images/bhaitofam.jpg
 nav-menu: true
 ---
 
