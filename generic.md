@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Achievements
-description: Lorem ipsum dolor est
+title: 'Achievements'
+description: '“Love yourself and what you do – the only key to success.” - Steve Jobs'
 image: assets/images/bhaito.jfif
 nav-menu: true
 ---
