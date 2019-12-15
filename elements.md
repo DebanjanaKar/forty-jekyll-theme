@@ -19,7 +19,7 @@ nav-menu: true
 
 <section>
 <!-- Table -->
-<div class="table-wrapper">
+<div class="inner">
 	<table>
 		<thead>
 			<tr>
@@ -56,7 +56,7 @@ nav-menu: true
 		</table>
 </div>
 
-<div>
+<div class="inner">
 <h4>Projects and Training</h4>
 
 <ul>
