@@ -14,8 +14,9 @@ nav-menu: true
 		<header class="major">
 			<h1>Educational Background</h1>
 		</header>
-	</div>
+</section>
 
+<section>
 <!-- Table -->
 <div class="table-wrapper">
 	<table>
