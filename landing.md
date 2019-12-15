@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'You don't take a photograph, you make it. ~ Ansel Adams'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
