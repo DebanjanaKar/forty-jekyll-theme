@@ -22,7 +22,10 @@ nav-menu: true
 				<header class="major">
 					<h3>Some achievements framed</h3>
 				</header>
-				
+				<p></p>
+				<ul class="actions">
+					<li></li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -35,9 +38,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Wonders of the world</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li></li>
 				</ul>
 			</div>
 		</div>
@@ -51,9 +54,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Down the memory lane</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li></li>
 				</ul>
 			</div>
 		</div>
