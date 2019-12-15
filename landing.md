@@ -13,51 +13,39 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Some achievements framed</h3>
 				</header>
-				<p></p>
-				<ul class="actions">
-					<li></li>
-				</ul>
+				<a href="generic.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			</a>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Wonders of the world</h3>
 				</header>
-				<p></p>
-				<ul class="actions">
-					<li></li>
-				</ul>
+				<a href="generic.html" class="image">
+			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+				</a>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Down the memory lane</h3>
 				</header>
-				<p></p>
-				<ul class="actions">
-					<li></li>
-				</ul>
+				<a href="generic.html" class="image">
+				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			</a>
 			</div>
 		</div>
 	</section>
