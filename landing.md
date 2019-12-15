@@ -60,5 +60,16 @@ nav-menu: true
 	</section>
 </section>
 
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Back to home!</h2>
+		</header>
+		<ul class="actions">
+			<li><a href="generic.html" class="button next">Back</a></li>
+		</ul>
+	</div>
+</section>
 
 </div>
