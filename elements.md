@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-description : '“A person who won't read has no advantage over one who can't read.” - Mark Twain
+description : '“A person who will not read has no advantage over one who can not read.” - Mark Twain'
 nav-menu: true
 ---
 
