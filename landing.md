@@ -18,9 +18,18 @@ nav-menu: true
 				<header class="major">
 					<h3>Some achievements framed</h3>
 				</header>
-				<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<a href="generic.html" class="image">
+				<div class="row">
+  					<div class="column">
+    						<img src="assets/images/pic08.jpg" alt="" />
+  					</div>
+  					<div class="column">
+    						<img src="assets/images/pic08.jpg" alt="" />
+  					</div>
+  					<div class="column">
+    						<img src="assets/images/pic08.jpg" alt="" />
+  					</div>
+				</div>
 			</a>
 			</div>
 		</div>
