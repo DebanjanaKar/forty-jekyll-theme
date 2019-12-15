@@ -2,7 +2,7 @@
 title: Photo Gallery
 layout: landing
 description: '“You do not take a photograph, you make it.” - Ansel Adams'
-image: assets/images/pic07.jpg
+image: assets/images/bhaitofam.jpg
 nav-menu: true
 ---
 
@@ -18,19 +18,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Some achievements framed</h3>
 				</header>
-			<a href="generic.html" class="image">
-				<div class="row">
-  					<div class="column">
-    						<img src="assets/images/pic08.jpg" alt="" />
-  					</div>
-  					<div class="column">
-    						<img src="assets/images/pic08.jpg" alt="" />
-  					</div>
-  					<div class="column">
-    						<img src="assets/images/pic08.jpg" alt="" />
-  					</div>
-				</div>
-			</a>
+			<img src="assets/images/bhaito-quiz-1.jpg" alt="" data-position="" />
+			<img src="assets/images/bhaito-quiz-2.jpg" alt="" data-position="" />
+			<img src="assets/images/bhaito-quiz-3.jpg" alt="" data-position="" />
 			</div>
 		</div>
 	</section>
