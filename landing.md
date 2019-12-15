@@ -18,9 +18,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Some achievements framed</h3>
 				</header>
+			<a href="generic.html" class="image">
 			<img src="assets/images/bhaito-quiz-1.jpg" alt="" data-position="" />
 			<img src="assets/images/bhaito-quiz-2.jpg" alt="" data-position="" />
 			<img src="assets/images/bhaito-quiz-3.jpg" alt="" data-position="" />
+				</a>
 			</div>
 		</div>
 	</section>
@@ -31,7 +33,7 @@ nav-menu: true
 					<h3>Wonders of the world</h3>
 				</header>
 				<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/bhaito-quiz-1.jpg" alt="" data-position="top center" />
 				</a>
 			</div>
 		</div>
@@ -43,8 +45,12 @@ nav-menu: true
 					<h3>Down the memory lane</h3>
 				</header>
 				<a href="generic.html" class="image">
-				<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-			</a>
+				<img src="assets/images/family-pic.jpg" alt="" data-position="" />
+				<img src="assets/images/childhhood.jpg" alt="" data-position="" />
+				<img src="assets/images/bhaito-quiz-1.jpg" alt="" data-position="" />
+				<img src="assets/images/school-1.jpg" alt="" data-position="" />
+				<img src="assets/images/school-2.jpg" alt="" data-position="" />
+				</a>
 			</div>
 		</div>
 	</section>
