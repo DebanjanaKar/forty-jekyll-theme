@@ -54,9 +54,7 @@ nav-menu: true
 			</tr>
 			</tbody>
 		</table>
-</div>
 
-<div class="inner">
 <h4>Projects and Training</h4>
 
 <ul>
