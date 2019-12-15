@@ -3,7 +3,7 @@ title: Photo Gallery
 layout: landing
 description: "You don't take a photograph, you make it. " - Ansel Adams
 image: assets/images/bhaitofam.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
