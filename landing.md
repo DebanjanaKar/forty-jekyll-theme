@@ -1,7 +1,7 @@
 ---
 title: Photo Gallery
 layout: landing
-description: You do not take a photograph, you make it. - Ansel Adams
+description: '“You do not take a photograph, you make it.” - Ansel Adams'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
