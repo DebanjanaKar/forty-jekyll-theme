@@ -15,10 +15,10 @@ nav-menu: true
 			<h1>Educational Background</h1>
 		</header>
 
+</section>
 
+<section>
 <!-- Table -->
-
-<h4>Default</h4>
 <div class="table-wrapper">
 	<table>
 		<thead>
